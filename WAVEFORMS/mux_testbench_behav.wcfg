@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="mux_testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="mux_testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="5069307fs"></ZoomEndTime>
+      <Cursor1Time time="2000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="120"></NameColumnWidth>
+      <ValueColumnWidth column_width="101"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="34" />
+   <wvobject fp_name="/mux_testbench/C" type="array">
+      <obj_property name="ElementShortName">C[4:0]</obj_property>
+      <obj_property name="ObjectShortName">C[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/D" type="array">
+      <obj_property name="ElementShortName">D[31:0]</obj_property>
+      <obj_property name="ObjectShortName">D[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X0" type="array">
+      <obj_property name="ElementShortName">X0[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X0[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X1" type="array">
+      <obj_property name="ElementShortName">X1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X2" type="array">
+      <obj_property name="ElementShortName">X2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X3" type="array">
+      <obj_property name="ElementShortName">X3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X4" type="array">
+      <obj_property name="ElementShortName">X4[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X4[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X5" type="array">
+      <obj_property name="ElementShortName">X5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X5[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X6" type="array">
+      <obj_property name="ElementShortName">X6[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X6[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X7" type="array">
+      <obj_property name="ElementShortName">X7[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X7[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X8" type="array">
+      <obj_property name="ElementShortName">X8[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X8[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X9" type="array">
+      <obj_property name="ElementShortName">X9[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X9[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X10" type="array">
+      <obj_property name="ElementShortName">X10[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X10[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X11" type="array">
+      <obj_property name="ElementShortName">X11[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X11[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X12" type="array">
+      <obj_property name="ElementShortName">X12[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X12[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X13" type="array">
+      <obj_property name="ElementShortName">X13[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X13[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X14" type="array">
+      <obj_property name="ElementShortName">X14[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X14[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X15" type="array">
+      <obj_property name="ElementShortName">X15[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X15[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X16" type="array">
+      <obj_property name="ElementShortName">X16[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X16[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X17" type="array">
+      <obj_property name="ElementShortName">X17[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X17[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X18" type="array">
+      <obj_property name="ElementShortName">X18[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X18[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X19" type="array">
+      <obj_property name="ElementShortName">X19[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X19[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X20" type="array">
+      <obj_property name="ElementShortName">X20[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X20[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X21" type="array">
+      <obj_property name="ElementShortName">X21[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X21[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X22" type="array">
+      <obj_property name="ElementShortName">X22[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X22[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X23" type="array">
+      <obj_property name="ElementShortName">X23[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X23[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X24" type="array">
+      <obj_property name="ElementShortName">X24[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X24[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X25" type="array">
+      <obj_property name="ElementShortName">X25[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X25[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X26" type="array">
+      <obj_property name="ElementShortName">X26[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X26[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X27" type="array">
+      <obj_property name="ElementShortName">X27[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X27[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X28" type="array">
+      <obj_property name="ElementShortName">X28[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X28[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X29" type="array">
+      <obj_property name="ElementShortName">X29[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X29[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X30" type="array">
+      <obj_property name="ElementShortName">X30[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X30[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_testbench/X31" type="array">
+      <obj_property name="ElementShortName">X31[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X31[31:0]</obj_property>
+   </wvobject>
+</wave_config>

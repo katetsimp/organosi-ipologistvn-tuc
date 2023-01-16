@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Datapath_testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="Datapath_testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="5386139fs"></ZoomEndTime>
+      <Cursor1Time time="2000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="120"></NameColumnWidth>
+      <ValueColumnWidth column_width="85"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="20" />
+   <wvobject fp_name="/Datapath_testbench/PC_LdEn" type="logic">
+      <obj_property name="ElementShortName">PC_LdEn</obj_property>
+      <obj_property name="ObjectShortName">PC_LdEn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/PC_sel" type="logic">
+      <obj_property name="ElementShortName">PC_sel</obj_property>
+      <obj_property name="ObjectShortName">PC_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/RF_WrData_sel" type="logic">
+      <obj_property name="ElementShortName">RF_WrData_sel</obj_property>
+      <obj_property name="ObjectShortName">RF_WrData_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/RegDst" type="logic">
+      <obj_property name="ElementShortName">RegDst</obj_property>
+      <obj_property name="ObjectShortName">RegDst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/ImmExt" type="array">
+      <obj_property name="ElementShortName">ImmExt[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ImmExt[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/zero" type="logic">
+      <obj_property name="ElementShortName">zero</obj_property>
+      <obj_property name="ObjectShortName">zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/ALUSrc" type="logic">
+      <obj_property name="ElementShortName">ALUSrc</obj_property>
+      <obj_property name="ObjectShortName">ALUSrc</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/ALU_func" type="array">
+      <obj_property name="ElementShortName">ALU_func[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_func[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/byteOp" type="logic">
+      <obj_property name="ElementShortName">byteOp</obj_property>
+      <obj_property name="ObjectShortName">byteOp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/MEMSTAGE_WR_EN" type="logic">
+      <obj_property name="ElementShortName">MEMSTAGE_WR_EN</obj_property>
+      <obj_property name="ObjectShortName">MEMSTAGE_WR_EN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/RegWr" type="logic">
+      <obj_property name="ElementShortName">RegWr</obj_property>
+      <obj_property name="ObjectShortName">RegWr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/PC" type="array">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/MM_RdData" type="array">
+      <obj_property name="ElementShortName">MM_RdData[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MM_RdData[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/MM_WrData" type="array">
+      <obj_property name="ElementShortName">MM_WrData[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MM_WrData[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/MM_Addr" type="array">
+      <obj_property name="ElementShortName">MM_Addr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MM_Addr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/MemWr" type="logic">
+      <obj_property name="ElementShortName">MemWr</obj_property>
+      <obj_property name="ObjectShortName">MemWr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/Datapath_testbench/Clk_period" type="other">
+      <obj_property name="ElementShortName">Clk_period</obj_property>
+      <obj_property name="ObjectShortName">Clk_period</obj_property>
+   </wvobject>
+</wave_config>

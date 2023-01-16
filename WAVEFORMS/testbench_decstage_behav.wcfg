@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="testbench_decstage_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="testbench_decstage" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="4612245fs"></ZoomEndTime>
+      <Cursor1Time time="2000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="74"></NameColumnWidth>
+      <ValueColumnWidth column_width="64"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="13" />
+   <wvobject fp_name="/testbench_decstage/Instr" type="array">
+      <obj_property name="ElementShortName">Instr[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Instr[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/RF_WrEn" type="logic">
+      <obj_property name="ElementShortName">RF_WrEn</obj_property>
+      <obj_property name="ObjectShortName">RF_WrEn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/ALU_out" type="array">
+      <obj_property name="ElementShortName">ALU_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/MEM_out" type="array">
+      <obj_property name="ElementShortName">MEM_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">MEM_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/RF_WrData_Sel" type="logic">
+      <obj_property name="ElementShortName">RF_WrData_Sel</obj_property>
+      <obj_property name="ObjectShortName">RF_WrData_Sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/RF_B_Sel" type="logic">
+      <obj_property name="ElementShortName">RF_B_Sel</obj_property>
+      <obj_property name="ObjectShortName">RF_B_Sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/Clk" type="logic">
+      <obj_property name="ElementShortName">Clk</obj_property>
+      <obj_property name="ObjectShortName">Clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/RESET" type="logic">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/Immext" type="array">
+      <obj_property name="ElementShortName">Immext[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Immext[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/Immed" type="array">
+      <obj_property name="ElementShortName">Immed[31:0]</obj_property>
+      <obj_property name="ObjectShortName">Immed[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/RF_A" type="array">
+      <obj_property name="ElementShortName">RF_A[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_A[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/RF_B" type="array">
+      <obj_property name="ElementShortName">RF_B[31:0]</obj_property>
+      <obj_property name="ObjectShortName">RF_B[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/testbench_decstage/Clk_period" type="other">
+      <obj_property name="ElementShortName">Clk_period</obj_property>
+      <obj_property name="ObjectShortName">Clk_period</obj_property>
+   </wvobject>
+</wave_config>

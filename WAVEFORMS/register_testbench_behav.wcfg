@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="register_testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="register_testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="3382551fs"></ZoomEndTime>
+      <Cursor1Time time="2000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="120"></NameColumnWidth>
+      <ValueColumnWidth column_width="105"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/register_testbench/RESET" type="logic">
+      <obj_property name="ElementShortName">RESET</obj_property>
+      <obj_property name="ObjectShortName">RESET</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_testbench/CLK" type="logic">
+      <obj_property name="ElementShortName">CLK</obj_property>
+      <obj_property name="ObjectShortName">CLK</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_testbench/WE" type="logic">
+      <obj_property name="ElementShortName">WE</obj_property>
+      <obj_property name="ObjectShortName">WE</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_testbench/DATAIN" type="array">
+      <obj_property name="ElementShortName">DATAIN[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATAIN[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_testbench/DATAOUT" type="array">
+      <obj_property name="ElementShortName">DATAOUT[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATAOUT[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/register_testbench/Clk_period" type="other">
+      <obj_property name="ElementShortName">Clk_period</obj_property>
+      <obj_property name="ObjectShortName">Clk_period</obj_property>
+   </wvobject>
+</wave_config>

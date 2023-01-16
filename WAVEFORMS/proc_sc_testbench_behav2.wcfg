@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="proc_sc_testbench_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="proc_sc_testbench" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="976693fs"></ZoomEndTime>
+      <Cursor1Time time="1651294fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="74"></NameColumnWidth>
+      <ValueColumnWidth column_width="80"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="24" />
+   <wvobject fp_name="/proc_sc_testbench/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/CLK_period" type="other">
+      <obj_property name="ElementShortName">CLK_period</obj_property>
+      <obj_property name="ObjectShortName">CLK_period</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/PC_sel" type="logic">
+      <obj_property name="ElementShortName">PC_sel</obj_property>
+      <obj_property name="ObjectShortName">PC_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/MemWr" type="logic">
+      <obj_property name="ElementShortName">MemWr</obj_property>
+      <obj_property name="ObjectShortName">MemWr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/exstage1/ALU_zero" type="logic">
+      <obj_property name="ElementShortName">ALU_zero</obj_property>
+      <obj_property name="ObjectShortName">ALU_zero</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/memstage1/ByteOp" type="logic">
+      <obj_property name="ElementShortName">ByteOp</obj_property>
+      <obj_property name="ObjectShortName">ByteOp</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/exstage1/ALU_out" type="array">
+      <obj_property name="ElementShortName">ALU_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/decstage1/RF1/AWR" type="array">
+      <obj_property name="ElementShortName">AWR[4:0]</obj_property>
+      <obj_property name="ObjectShortName">AWR[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/PC_LdEn" type="logic">
+      <obj_property name="ElementShortName">PC_LdEn</obj_property>
+      <obj_property name="ObjectShortName">PC_LdEn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/decstage1/RF_WREN" type="logic">
+      <obj_property name="ElementShortName">RF_WREN</obj_property>
+      <obj_property name="ObjectShortName">RF_WREN</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/ImmExt" type="array">
+      <obj_property name="ElementShortName">ImmExt[1:0]</obj_property>
+      <obj_property name="ObjectShortName">ImmExt[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/RF_WrData_sel" type="logic">
+      <obj_property name="ElementShortName">RF_WrData_sel</obj_property>
+      <obj_property name="ObjectShortName">RF_WrData_sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/PC" type="array">
+      <obj_property name="ElementShortName">PC[31:0]</obj_property>
+      <obj_property name="ObjectShortName">PC[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/instruction" type="array">
+      <obj_property name="ElementShortName">instruction[31:0]</obj_property>
+      <obj_property name="ObjectShortName">instruction[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/ALU_func" type="array">
+      <obj_property name="ElementShortName">ALU_func[3:0]</obj_property>
+      <obj_property name="ObjectShortName">ALU_func[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/decstage1/RF1/mux1/X3" type="array">
+      <obj_property name="ElementShortName">X3[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X3[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/decstage1/RF1/mux1/X5" type="array">
+      <obj_property name="ElementShortName">X5[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X5[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/decstage1/RF1/mux1/X10" type="array">
+      <obj_property name="ElementShortName">X10[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X10[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/datapathh/decstage1/RF1/mux1/X16" type="array">
+      <obj_property name="ElementShortName">X16[31:0]</obj_property>
+      <obj_property name="ObjectShortName">X16[31:0]</obj_property>
+      <obj_property name="Radix">HEXRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/data_memory/RAM_t[404]" type="array">
+      <obj_property name="ElementShortName">[404][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[404][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/data_memory/RAM_t[405]" type="array">
+      <obj_property name="ElementShortName">[405][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[405][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/data_memory/RAM_t[408]" type="array">
+      <obj_property name="ElementShortName">[408][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[408][31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/proc_sc_testbench/uut/data_memory/RAM_t[407]" type="array">
+      <obj_property name="ElementShortName">[407][31:0]</obj_property>
+      <obj_property name="ObjectShortName">[407][31:0]</obj_property>
+   </wvobject>
+</wave_config>
